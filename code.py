@@ -1,1 +1,1 @@
-print("Sarada Ajitesh+ entri cource")
+print("Sarada Ajitesh+prasad entri cource")
